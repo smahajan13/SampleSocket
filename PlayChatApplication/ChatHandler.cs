@@ -16,7 +16,10 @@ namespace PlayChatApplication
         }
         public async Task SendMessage(string socketId,string message)
         {
-           // dynamic dynamicMessage = _chartManager.Messages.Add(new ExpandoObject());
+            dynamic dynamicMessage = new ExpandoObject();
+            dynamicMessage.UserId = socketId;
+            dynamicMessage.Message = message;
+           _chartManager.Messages.Add(dynamicMessage);
             await InvokeClientMethodToAllAsync("pingMessage",socketId,message);
         }
     }
