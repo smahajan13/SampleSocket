@@ -1,0 +1,12 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+<div class="row top-space">
+    <div class="col-lg-12">
+        <ul id="messages"></ul>
+        <input type="text" class="form-control" id="message-content" />
+    </div>
+</div>
+@section Scripts{
+    <script data-main="scripts/main" src="https://rawgit.com/radu-matei/websocket-manager/master/src/WebSocketManager.Client.TS/dist/WebSocketManager.js"></script>
+}
