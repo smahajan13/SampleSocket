@@ -20,7 +20,7 @@ namespace PlayChatApplication
             dynamicMessage.UserId = socketId;
             dynamicMessage.Message = message;
            _chartManager.Messages.Add(dynamicMessage);
-            await InvokeClientMethodToAllAsync("pingMessage",socketId,message);
+            await InvokeClientMethodToAllAsync("pingMessage",dynamicMessage.UserId,dynamicMessage.Message);
         }
     }
 }
