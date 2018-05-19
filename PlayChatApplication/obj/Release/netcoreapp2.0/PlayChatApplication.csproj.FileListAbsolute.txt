@@ -1,0 +1,10 @@
+/Volumes/A/WorkSpace/SampleSocket/PlayChatApplication/bin/Release/netcoreapp2.0/PlayChatApplication.deps.json
+/Volumes/A/WorkSpace/SampleSocket/PlayChatApplication/bin/Release/netcoreapp2.0/PlayChatApplication.runtimeconfig.json
+/Volumes/A/WorkSpace/SampleSocket/PlayChatApplication/bin/Release/netcoreapp2.0/PlayChatApplication.runtimeconfig.dev.json
+/Volumes/A/WorkSpace/SampleSocket/PlayChatApplication/bin/Release/netcoreapp2.0/PlayChatApplication.dll
+/Volumes/A/WorkSpace/SampleSocket/PlayChatApplication/bin/Release/netcoreapp2.0/PlayChatApplication.pdb
+/Volumes/A/WorkSpace/SampleSocket/PlayChatApplication/obj/Release/netcoreapp2.0/PlayChatApplication.csproj.CoreCompileInputs.cache
+/Volumes/A/WorkSpace/SampleSocket/PlayChatApplication/obj/Release/netcoreapp2.0/PlayChatApplication.AssemblyInfoInputs.cache
+/Volumes/A/WorkSpace/SampleSocket/PlayChatApplication/obj/Release/netcoreapp2.0/PlayChatApplication.AssemblyInfo.cs
+/Volumes/A/WorkSpace/SampleSocket/PlayChatApplication/obj/Release/netcoreapp2.0/PlayChatApplication.dll
+/Volumes/A/WorkSpace/SampleSocket/PlayChatApplication/obj/Release/netcoreapp2.0/PlayChatApplication.pdb

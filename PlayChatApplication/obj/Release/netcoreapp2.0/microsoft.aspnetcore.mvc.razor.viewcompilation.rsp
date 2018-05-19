@@ -1,0 +1,12 @@
+/Volumes/A/WorkSpace/SampleSocket/PlayChatApplication
+--output-path=obj/Release/netcoreapp2.0/
+--application-name=PlayChatApplication
+--content-root=/Volumes/A/WorkSpace/SampleSocket/PlayChatApplication
+--file=/Volumes/A/WorkSpace/SampleSocket/PlayChatApplication/Views/Home/About.cshtml
+--file=/Volumes/A/WorkSpace/SampleSocket/PlayChatApplication/Views/Home/Contact.cshtml
+--file=/Volumes/A/WorkSpace/SampleSocket/PlayChatApplication/Views/Home/Index.cshtml
+--file=/Volumes/A/WorkSpace/SampleSocket/PlayChatApplication/Views/Shared/Error.cshtml
+--file=/Volumes/A/WorkSpace/SampleSocket/PlayChatApplication/Views/Shared/_Layout.cshtml
+--file=/Volumes/A/WorkSpace/SampleSocket/PlayChatApplication/Views/Shared/_ValidationScriptsPartial.cshtml
+--file=/Volumes/A/WorkSpace/SampleSocket/PlayChatApplication/Views/_ViewImports.cshtml
+--file=/Volumes/A/WorkSpace/SampleSocket/PlayChatApplication/Views/_ViewStart.cshtml

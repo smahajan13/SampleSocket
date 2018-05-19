@@ -12799,30 +12799,28 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\shweta.mahajan\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "/Users/kapilbindal/.nuget/packages/": {},
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\shweta.mahajan\\source\\repos\\PlayChatApplication\\PlayChatApplication\\PlayChatApplication.csproj",
+      "projectUniqueName": "/Volumes/A/WorkSpace/SampleSocket/PlayChatApplication/PlayChatApplication.csproj",
       "projectName": "PlayChatApplication",
-      "projectPath": "C:\\Users\\shweta.mahajan\\source\\repos\\PlayChatApplication\\PlayChatApplication\\PlayChatApplication.csproj",
-      "packagesPath": "C:\\Users\\shweta.mahajan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\shweta.mahajan\\source\\repos\\PlayChatApplication\\PlayChatApplication\\obj\\",
+      "projectPath": "/Volumes/A/WorkSpace/SampleSocket/PlayChatApplication/PlayChatApplication.csproj",
+      "packagesPath": "/Users/kapilbindal/.nuget/packages/",
+      "outputPath": "/Volumes/A/WorkSpace/SampleSocket/PlayChatApplication/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\shweta.mahajan\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/kapilbindal/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
